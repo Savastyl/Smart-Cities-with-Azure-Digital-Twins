@@ -10,7 +10,7 @@ urlFragment: "update-this-to-unique-url-stub"
 ---
 -->
 
-# Digital Twins Definition Language (DTDL) ontology for Smart Cities
+# The-physical-world-into-its-Digital-Twin
 
 ![Alt text](Media/01.png)
 
@@ -29,6 +29,8 @@ Taxonomies for products and languages: https://review.docs.microsoft.com/new-hop
 -->
 
 <!-- Give a short description for your sample here. What does it do and why is it important? -->
+
+# Digital Twins Definition Language (DTDL) ontology for Smart Cities
 
 The concept of digital twins—a digital representation of real-world environment brought to life with real time data from sensors and other data sources—has entered the realm of smart cities and promises to enable city administrations and urban planners to make better decisions with the help of data integration and visualization from across the urban space.
 

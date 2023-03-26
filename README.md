@@ -10,7 +10,7 @@ urlFragment: "update-this-to-unique-url-stub"
 ---
 -->
 
-# The-physical-world-into-its-Digital-Twin
+# The Physical World into Its Digital Twin
 
 ![Alt text](Media/01.png)
 
